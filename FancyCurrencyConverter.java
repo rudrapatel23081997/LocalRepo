@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class FancyCurrencyConverter 
+public class CurrencyConverter 
 {
     private static final double RATE = 82.5; // 1 Dollar = 82.5 Rupees
 
